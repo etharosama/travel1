@@ -1,0 +1,37 @@
+#title{
+	color: #fff1c1 ;
+}
+#na {
+	background-color: #113f67 ;
+	padding-left: 5% ;
+	padding-right: 5%;
+}
+#card , #card1 , #card2 , #card3 , #card4{
+	background-color: #113f67 ;
+	color: #fff1c1 ;
+
+}
+.navbar-brand{
+	font-size: 3rem;
+}
+#ba{
+	background-image: url(OQI7ZM0.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position-x: right ;
+	background-position-y: 20% ;
+	margin-top: 100px;
+	color: white;
+}
+h1 {
+
+    margin-left: 22%;
+    font-family: 'Sacramento', cursive;
+    font-size: 10rem;
+
+}
+body{
+	background-color: #65c6c4;
+	font-family: 'Lemon';
+
+}
